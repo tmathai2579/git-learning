@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header,
+footer {
+    background-color: #e4ffe4;
+    color: #003f00;
+    font-size: 20px;
+}
+
+header,
+main,
+footer {
+    padding: 20px;
+}
+
+ul {
+    padding-left: 1rem;
+    margin-top: 1rem;
+}
+
+h1 {
+    color: #00b500
+}
+
+.section-1 {
+    margin-top: 1.5rem;
+}
